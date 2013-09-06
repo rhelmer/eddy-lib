@@ -1,0 +1,9 @@
+#!/Users/rhelmer/src/eddy/env/bin/python2.6
+# EASY-INSTALL-ENTRY-SCRIPT: 'b2gperf==0.6','console_scripts','b2gperf'
+__requires__ = 'b2gperf==0.6'
+import sys
+from pkg_resources import load_entry_point
+
+sys.exit(
+   load_entry_point('b2gperf==0.6', 'console_scripts', 'b2gperf')()
+)

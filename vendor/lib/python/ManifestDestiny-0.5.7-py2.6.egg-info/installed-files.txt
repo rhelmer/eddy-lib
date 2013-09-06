@@ -1,0 +1,12 @@
+../manifestparser/__init__.py
+../manifestparser/manifestparser.py
+../manifestparser/__init__.pyc
+../manifestparser/manifestparser.pyc
+./
+dependency_links.txt
+entry_points.txt
+not-zip-safe
+PKG-INFO
+SOURCES.txt
+top_level.txt
+../../../bin/manifestparser

@@ -1,0 +1,9 @@
+#!/Users/rhelmer/src/eddy/env/bin/python2.6
+# EASY-INSTALL-ENTRY-SCRIPT: 'ManifestDestiny==0.5.7','console_scripts','manifestparser'
+__requires__ = 'ManifestDestiny==0.5.7'
+import sys
+from pkg_resources import load_entry_point
+
+sys.exit(
+   load_entry_point('ManifestDestiny==0.5.7', 'console_scripts', 'manifestparser')()
+)

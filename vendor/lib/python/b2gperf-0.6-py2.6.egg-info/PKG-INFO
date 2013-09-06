@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: b2gperf
+Version: 0.6
+Summary: App startup tests for B2G
+Home-page: https://github.com/davehunt/b2gperf
+Author: Mozilla Automation and Testing Team
+Author-email: tools@lists.mozilla.org
+License: MPL
+Description: UNKNOWN
+Keywords: mozilla
+Platform: UNKNOWN
